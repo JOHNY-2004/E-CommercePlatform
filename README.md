@@ -1,8 +1,8 @@
-# Buy-Sell @ IIITH
+# Buy-Sell @ VITV
 
 ## Introduction
 
-- Buy-Sell @ IIITH is a marketplace web application built using the MERN stack. The platform allows IIIT students to buy and sell items within the community. Users can register, list items for sale, search for products, place orders, and manage transactions securely.
+- Buy-Sell @ VITV is a marketplace web application built using the MERN stack. The platform allows IIIT students to buy and sell items within the community. Users can register, list items for sale, search for products, place orders, and manage transactions securely.
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@
 - Clone the repository
 
 -     git clone <repository-url>
--     cd buy-sell-iiith
+-     cd buy-sell-VITV
 
 - Install dependencies In the root directory, run:
 
