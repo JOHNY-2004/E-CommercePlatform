@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- Buy-Sell @ VITV is a marketplace web application built using the MERN stack. The platform allows IIIT students to buy and sell items within the community. Users can register, list items for sale, search for products, place orders, and manage transactions securely.
+- Buy-Sell @ VITV is a marketplace web application built using the MERN stack. The platform allows VITV students to buy and sell items within the community. Users can register, list items for sale, search for products, place orders, and manage transactions securely.
 
 ## Tech Stack
 
