@@ -30,7 +30,7 @@
 - Clone the repository
 
 -     git clone <repository-url>
--     cd buy-sell-VITV
+-     cd <root-directory>
 
 - Install dependencies In the root directory, run:
 
